@@ -33,7 +33,7 @@ MAX_CACHE_SIZE = 500 * 1024 * 1024  # 500MB
 COOKIES_FILE = "cookies.txt"  # Replace with your actual cookies file path if required
 
 # Search API URL (used both for regular searches and Spotify link resolution)
-SEARCH_API_URL = "https://sporting-greer-ashiftechs-307532f6.koyeb.app/search?title="
+SEARCH_API_URL = "https://odd-block-a945.tenopno.workers.dev/search?title="
 
 def get_cache_key(video_url):
     """Generate a cache key from the video URL."""
